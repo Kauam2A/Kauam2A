@@ -1,16 +1,15 @@
-## Hi there 👋
+##**Bom dia; Boa tarde ou Boa noite! sejam bem vindos ao meu perfil!**  👋
 
-<!--
-**Kauam2A/Kauam2A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Meu nome é Kauã Matheus Nunes de Freitas.**
 
-Here are some ideas to get you started:
+- **Atualmente estou melhorando minhas habilidades em estudos sobre Javascript e Markdown.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Eu criei esse repositório para compartilhar meu progresso através de projetos da plataforma [Alura](https://cursos.alura.com.br)**
+
+- 🔭 **Você pode entrar em contato comigo:**
+
+  00001093971460sp@al.educacao.sp.gov.br
+  
+
+  ![](https://media1.tenor.com/m/rwiQYAbzUS0AAAAC/emoji-funny.gif)
+  
